@@ -8,7 +8,7 @@ import {
 
 const faqs = [
   {
-    q: "What industries does Saylani Tech work with?",
+    q: "What industries does Konain Tech work with?",
     a: "We collaborate with startups, enterprises, and nonprofits across diverse industries — from fintech and education to healthcare and e-commerce.",
   },
   {
