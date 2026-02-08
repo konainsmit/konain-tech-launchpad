@@ -11,7 +11,7 @@ const Navbar = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-xl border-b border-border/50">
       <nav className="container flex items-center justify-between h-16 md:h-20">
         <a href="#" className="font-heading text-xl font-bold tracking-tight text-foreground">
-          SAYLANI<span className="block text-[10px] font-medium tracking-widest text-muted-foreground uppercase">Tech Limited</span>
+          Konain<span className="block text-[10px] font-medium tracking-widest text-muted-foreground uppercase">Tech Limited</span>
         </a>
 
         {/* Desktop */}
